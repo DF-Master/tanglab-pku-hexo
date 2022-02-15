@@ -2,7 +2,7 @@
 title: "Principal investigator"
 description: "Principal investigator"
 lead: "唐淳"
-date: 2021-09-04
+date: 2022-01-02
 lastmod: 2020-11-12T15:22:20+01:00
 draft: false
 images: []
@@ -20,7 +20,7 @@ no_toc: true
 
 ![唐淳](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902103406.jpg)
 
-E-mail: Tang_Chun_AT_pku.edu.cn
+E-mail: Tang_Chun@pku.edu.cn
 
 Website: http://www.tanglab.org
 

@@ -8,12 +8,20 @@ tags:
 
 
 # Publications
+74 Xu Dong, Ling-Yun Qin, Zhou Gong, Sanbo Qin, Huan-Xiang Zhou, and Chun Tang,**2022**."Preferential Interactions of a Crowder Protein with the Specific Binding Site of a Native Protein Complex" J. Phys. Chem. Lett.: 792–800[https://doi.org/10.1021/acs.jpclett.1c03794](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c03794)
 
-71.Kogut M, Gong Z, Tang C, Liwo A. **(2021)** Pseudopotentials for coarse-grained cross-link-assisted modeling of protein structures.[ *Journal of Computational Chemistry,* doi.org/10.1002/jcc.26736](http://onlinelibrary.wiley.com/doi/10.1002/jcc.26736)
+
+73 Czaplewski, C., et al. **(2021)**. "Recent Developments in Data-Assisted Modeling of Flexible Proteins." Frontiers in Molecular Biosciences 8(1306).[https://doi.org/10.3389/fmolb.2021.765562](https://www.frontiersin.org/articles/10.3389/fmolb.2021.765562/full)
+
+
+72 Fu, W., et al. **(2021)**. "Discovery of a Novel Androgen Receptor Antagonist Manifesting Evidence to Disrupt the Dimerization of the Ligand-Binding Domain via Attenuating the Hydrogen-Bonding Network Between the Two Monomers." Journal of Medicinal Chemistry 64(23): 17221-17238.[https://doi.org/10.1021/acs.jmedchem.1c01287](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.1c01287)
+
+71 Kogut M, Gong Z, Tang C, Liwo A. **(2021)** Pseudopotentials for coarse‐grained cross‐link‐assisted modeling of protein structures
+M Kogut, Z Gong, C Tang, A Liwo Journal of Computational Chemistry 42 (29), 2054-2067[ *Journal of Computational Chemistry,* doi.org/10.1002/jcc.26736](http://onlinelibrary.wiley.com/doi/10.1002/jcc.26736)
 
 <!--more-->
 
-70.Qin LY, Gong Z, Liu K, Dong X and Tang C.**（2021）**Kinetic Constraints in the Specific Interaction between Phosphorylated Ubiquitin and Proteasomal Shuttle Factors. *B*[*iomolecules*](https://www.mdpi.com/2218-273X/11/7/1008)[, 10.3390/biom11071008](https://www.mdpi.com/2218-273X/11/7/1008)*[
+70 Qin LY, Gong Z, Liu K, Dong X and Tang C. **(2021)** Kinetic Constraints in the Specific Interaction between Phosphorylated Ubiquitin and Proteasomal Shuttle Factors. [*Biomolecules*](https://www.mdpi.com/2218-273X/11/7/1008)[, 10.3390/biom11071008](https://www.mdpi.com/2218-273X/11/7/1008)*[
 ](https://www.mdpi.com/2218-273X/11/7/1008)*
 
 69 Lerner E, Barth A, Hendrix J, Ambrose B, Birkedal V, Blanchard SC, Börner R,Chung HS, Cordes T, Craggs TD, Deniz AA, Diao JJ, Fei JY, Gonzalez RL, Gopich IV, Ha T, Hanke CA, Haran G, Hatzakis NS, Hohng SC, Hong SC, Hugel T, Ingargiola A, Joo C, Kapanidis AN, Kim HD, Laurence T, Lee NK, Lee TH, Lemke EA, Margeat E, Michaelis J, Michalet X, Myong S, Nettels D, Peulen TO, Ploetz E, Razvag Y, Robb NC, Schuler B, Soleimaninejad H, Tang C, Vafabakhsh R, Lamb DC, Seidel CA, Weiss S. **(2021)** FRET-based dynamic structural biology: Challenges, perspectives and an appeal for open-science practices. *[eLife 2021;10:e60416](https://elifesciences.org/articles/60416)*
