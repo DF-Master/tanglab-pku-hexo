@@ -15,7 +15,7 @@ weight: 100
 toc: true
 ---
 
-## Shangxiang Ye（叶尚祥）
+## Shangxiang Ye(叶尚祥)
 
 ![叶尚祥](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210905135035.jpg)
 
@@ -33,7 +33,7 @@ E-mail: 1600011738@pku.edu.cn
 
 My name is Meng Ling-shen, a student from PKU CCME. It's my pleasure to be a member of Tang lab.
 
-## Xuzheng Wang（王旭正）
+## Xuzheng Wang(王旭正)
 ![王旭正](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902104356.jpg)
 
 E-mail: 623858043@stu.pku.edu.cn
@@ -51,15 +51,7 @@ Hi, I’m Chen Jingru, I completed my undergraduate study in physics at Central 
 
 
 
-## Yiqian Wu（吴翼茜）
-
-![吴翼茜](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902104423.png)
-
-E-mail: yiqianwu@stu.pku.edu.cn
-
-I’m Yiqian Wu. I’m a senior student in East China Normal University majoring in chemistry. It’s my honor to study in Tanglab.
-
-## Zihan Li（李梓焓）
+## Zihan Li(李梓焓)
 
 ![李梓焓](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902142734.jpg)
 
@@ -67,7 +59,13 @@ E-mail: chemlzh@pku.edu.cn
 
 Hello, I’m Zihan Li, an undergraduate student from Peking University, and now a member of Tang’s Lab. I’m pleased to work together with senior schoolmates in Tang’s Lab, and I’m ready to do more researches in solution NMR and protein dynamic structures.
 
+## Xinyuan Lu(卢信源)
 
+E-mail:2101110403@pku.edu.cn
+
+Hello, my name is Xinyuan Lu, and I graduated from PKU CCME with a bachelor's degree in 2021. I'm honored to have been accepted into Tang Lab to pursue a Ph.D. My present research focuses on the development of probes for solvent paramagnetic relaxation enhancement (sPRE).
+
+![卢信源](https://gitee.com/DF-Master/yidapicbed/raw/master/202203081238892.png)
 
 ## Yida Jiang(江意达)
 
@@ -80,3 +78,4 @@ Hi, I'm Yida Jiang, graduated in PKU CCME, and continue my Ph.D. degree in Tang 
 - Wechat: jiang_yida
 - QQ: 476540183
 - Github: https://github.com/DF-Master
+

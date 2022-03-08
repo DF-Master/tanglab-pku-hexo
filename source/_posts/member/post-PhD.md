@@ -19,3 +19,10 @@ Hi, I am Xue-Ni Hou, received my MSc from China Agriculture University in 2016, 
  ![侯学妮](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071934116.jpeg)
 
  
+## Mengjun Xue
+
+Email: mxue@pku.edu.cn
+
+I'm Mengjun Xue, received my PhD degree from TU Berlin, and now a member of Tang Lab. My research interest is biomolecular NMR.
+
+![薛孟军](https://gitee.com/DF-Master/yidapicbed/raw/master/202203081235243.png)
