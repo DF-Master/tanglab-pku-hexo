@@ -23,3 +23,11 @@ I am Jieyun Jiang. I got my master's degree from The University of Tulsa. Now I 
 ![裴凯](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210903111306.jpeg)
 
 I am Kai Pei. I graduated from Hua Zhong Agriculture University. I am major in Biochemistry and Molecular Biology. Now I work in Tang Lab as a research assistant.
+
+## Mengjun Xue（薛孟军）
+
+Email: mxue@pku.edu.cn
+
+I'm Mengjun Xue, received my PhD degree from TU Berlin, and now a member of Tang Lab. My research interest is biomolecular NMR.
+
+![薛孟军](https://gitee.com/DF-Master/yidapicbed/raw/master/202203081235243.png)
