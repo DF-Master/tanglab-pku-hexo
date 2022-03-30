@@ -17,8 +17,8 @@ categories:
 
 ​	本次报告中，刘聪老师围绕α-Synuclein，从结构基础，致病机制和传播阻断方式三个方面展开介绍了他们的工作。
 
-![刘聪研究员作报告](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20211016151438.png)
+![刘聪研究员作报告](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20211016151438.png)
 	α-Synuclein的纤维具有多态性，刘老师课题组使用cryo-EM对α-Synuclein野生型、突变型和翻译后修饰蛋白形成的纤维进行了表征，阐述了其不同纤维的相互作用模式。病理性α-Synuclein的传播是帕金森病发展的重要原因。刘老师的工作揭示了LAG3 D1结构域和 APLP1 E1结构域通常使用正电表面来结合带负电α-Syn的C末端。淀粉样纤维的形成不仅可以破坏α-Syn的C末端与NAC区域之间的分子内相互作用，而且还可以将C末端集中在纤维表面，显着增加α-syn与受体的结合亲和力。pS129是病理性 α-syn 的标志性修饰，可以进一步增强α-Syn原纤维与受体之间的相互作用。最后，刘老师讲述了他们课题组筛选出可与纤维相结合的小分子，从而抑制纤维与受体的结合，阻断纤维的传播。
 	报告结束后，刘聪老师和与会者进行了热烈地讨论，唐老师向刘聪老师赠送了“北京大学物理化学长葛未名讲座”纪念品，并合影留念。
 
-![合影留念](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20211016151421.png)
+![合影留念](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20211016151421.png)

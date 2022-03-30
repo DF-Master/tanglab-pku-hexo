@@ -11,7 +11,7 @@ categories:
 
 纽约州立大学石溪分校的汪劲教授于北京时间2021年12月9日，受唐淳老师邀来北京大学化学与分子工程学院作《蛋白质折叠和结合以及染色体动力学的能量景观》报告。
 
-![汪劲教授作报告](https://gitee.com/DF-Master/yidapicbed/raw/master/202112131923742.jpg)
+![汪劲教授作报告](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112131923742.jpg)
 
 <!--more-->
 

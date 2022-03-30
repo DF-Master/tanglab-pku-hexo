@@ -24,7 +24,7 @@ Reference: Plos One, 2015,10, e0120445.
 
 <!--more-->
 
-![rna2](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902112149.jpg)
+![rna2](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902112149.jpg)
 
 ## The mechanism of METTL3-METTL14 N6-methyladenosine methyltransferase recognizing different RNA
 
@@ -32,11 +32,11 @@ We have obtained the solution structure of the zinc finger domain of METTL3, whi
 
 Reference: Protein & Cell, 2019,10:272-284
 
-![rna4](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902112233.jpg)
+![rna4](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902112233.jpg)
 
 We obtained selectively isotope labeled SAM through an enzyme-catalyzed reaction. Using the NMR signal change of the methyl group on the SAM, the RNA methylation process can be studied in real time.
 
-![rna5](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902112239.jpg)
+![rna5](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902112239.jpg)
 
 ## Investigate the hierarchical conformational dynamics of preQ1 RNA riboswitches
 
@@ -44,7 +44,7 @@ We characterize the conformational dynamics of preQ1 riboswitches from mesophili
 
 Reference: J Mol Biol, 2020, doi:10.1016/j.jmb.2020.06.002
 
-![rna3](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902112322.jpg)
+![rna3](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902112322.jpg)
 
 ## Refining RNA solution structures with solvent PRE
 
@@ -52,5 +52,5 @@ Covalent conjugation of a paramagnetic probe is difficult for RNAs. Thus,we refi
 
 Reference: Biophys. Rep, 2019,5:244-253
 
-![rna1](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902112404.jpg)
+![rna1](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902112404.jpg)
 

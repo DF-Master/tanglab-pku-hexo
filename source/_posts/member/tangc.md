@@ -18,7 +18,7 @@ no_word_count: true
 no_toc: true
 ---
 
-![唐淳](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902103406.jpg)
+![唐淳](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902103406.jpg)
 
 E-mail: Tang_Chun@pku.edu.cn
 

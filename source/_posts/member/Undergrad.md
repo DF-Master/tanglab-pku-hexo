@@ -10,7 +10,7 @@ tags:
 
 ## Haoyang Deng(邓皓洋)
 
-![邓皓洋](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210903101609.jpg)
+![邓皓洋](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210903101609.jpg)
 
 E-mail: denghaoyang@pku.edu.cn
 

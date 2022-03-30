@@ -20,7 +20,7 @@ Lanthanoid pseudo-contact shift (PCS) provides long-range structural information
 Reference: J Biomol NMR, 2017, 67:273-282.
 <!--more-->
 
-![nmr6](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902111630.jpg)
+![nmr6](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902111630.jpg)
 
 ## Designing a rigid PRE probe to visualize the subtle dynamics of holo QBP protein
 
@@ -28,7 +28,7 @@ We designed a Cu(II)-based paramagnetic probe, with the metal ion sandwiched bet
 
 Reference: Biochemistry, 2014,53, 1403-1409.
 
-![nmr5](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902111700.jpg)
+![nmr5](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902111700.jpg)
 
 ## Protein Structural Ensembles Visualized by Solvent Paramagnetic Relaxation Enhancement
 
@@ -37,7 +37,7 @@ We have synthesized a new sPRE probe, Gd(III)–TTHA–TMA, and developed label-
 Reference: J Biomol NMR, 2014, 58, 149-154.
                    Angew Chem Int Ed, 2017, 56,1002-1006.  
 
-![nmr2](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902111735.jpg)
+![nmr2](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902111735.jpg)
 
 ## Using solvent PRE to characterize protein conformational dynamics
 
@@ -45,7 +45,7 @@ We have developed the sPRE calculation method. The sPRE can be computed with a s
 
 Reference:  Methods, 2018, 148:48-56.
 
-![nmr4](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902111741.jpg)
+![nmr4](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902111741.jpg)
 
 ## Discover the ultra-weak interaction between proteins and its significance through PRE
 
@@ -54,4 +54,4 @@ Using paramagnetic NMR spectroscopy, we found a weak non-covalent interaction be
 Reference:   Angew Chem Int Ed, 2012, 51, 469-472.
                     Angew Chem Int Ed, 2014, 53, 11501-11505.
 
-![nmr1](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902111829.jpg)
+![nmr1](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902111829.jpg)

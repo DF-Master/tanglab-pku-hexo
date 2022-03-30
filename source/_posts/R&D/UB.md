@@ -24,7 +24,7 @@ Reference: Cell Discov, 2019, 5:9.
 
 <!--more-->
 
-![ub4](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902112907.jpg)
+![ub4](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902112907.jpg)
 
 ## Dynamic Structure and Function Regulation of K63-diUb
 
@@ -32,7 +32,7 @@ By integrating PRE, SAXS and other methods, we have analyzed the ensemble struct
 
 Reference: eLife, 2015, 4:e05767.
 
-![ub2](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902112941.jpg)
+![ub2](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902112941.jpg)
 
 ## Noncovalent Dimerization of Ubiquitin
 
@@ -40,7 +40,7 @@ Using the PRE NMR, we found a weak non-covalent interaction between ubiquitin mo
 
 Reference: Angew Chem Int Ed, 2012, 51, 469-472.
 
-![ub1](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902113024.png)
+![ub1](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902113024.png)
 
 ## Regulation of ubiquitin phosphorylation on its structure and function
 
@@ -49,4 +49,4 @@ Through the integration of NMR, smFRET, MD simulation and other methods, it is r
 Reference: Proc Natl Acad Sci, USA, 2017, 114:6770-6775. 
                   Protein & Cell, 2019, 10:908-913.
 
-![ub3](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902113031.jpg)
+![ub3](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902113031.jpg)

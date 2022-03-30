@@ -19,15 +19,15 @@ contributors: ["Zihan Li", "Jingru Chen", "Kan Liu"]
 
 运动会主要分为传统田径项目和趣味运动项目两部分。唐老师，姜老师以及其他化院的老师们组成了一支活力满满的队伍参加了“毛毛虫比赛”。
 
-![比赛前准备](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902105745.jpg)
+![比赛前准备](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902105745.jpg)
 
 运动会主要分为传统田径项目和趣味运动项目两部分。唐老师，姜老师以及其他化院的老师们组成了一支活力满满的队伍参加了“毛毛虫比赛”。
 
-![比赛进行中](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902105808.jpg)
+![比赛进行中](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902105808.jpg)
 
 五月的北京阳光明媚，微风和煦，队伍的每一员都精神饱满，斗志昂扬。“毛毛虫”比赛是一项极考验团队合作的比赛，唐老师一马当先，是“毛毛虫”的领头羊，姜老师则在队伍中间配合默契，“一二一二一二……”，在响亮的口号声中，队伍顺利抵达终点，并获得了第六名的好成绩。
 
-![参加比赛的化院教职工合影（唐老师（后排右二）、姜老师（前排右二））](https://gitee.com/DF-Master/yidapicbed/raw/master/markdown/20210902105824.jpg)
+![参加比赛的化院教职工合影（唐老师（后排右二）、姜老师（前排右二））](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902105824.jpg)
 
 此次体育文化节旨在竞技与娱乐并存，是为促进教师、同学们相互了解，增进友谊，加强团结，为了促进大家的身心健康发展搭建的平台，也是广大教职工展示精神风貌的舞台。
 

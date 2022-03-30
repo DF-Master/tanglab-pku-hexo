@@ -14,11 +14,11 @@ tags:
 
 # Query
 
-![unrelax, relax and final state 平均85.6分](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071511460.png)
+![unrelax, relax and final state 平均85.6分](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071511460.png)
 
-![alphafold-multitimer输出的rank0-rank5结构](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071511739.png)
+![alphafold-multitimer输出的rank0-rank5结构](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071511739.png)
 
-![alphafold vs standard structure](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071510780.png)
+![alphafold vs standard structure](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071510780.png)
 
 alphafold vs standard structure
 
@@ -29,19 +29,19 @@ alphafold vs standard structure
 
 ## 绿色tanglab.pku.edu.cn，蓝色北极星
 
-![GST_UBE2S_UBD](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071510045.png)
+![GST_UBE2S_UBD](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071510045.png)
 
-![diUb_L67S](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071510073.png)
+![diUb_L67S](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071510073.png)
 
-![His_E2_25K](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071510063.png)
+![His_E2_25K](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071510063.png)
 
 
 
-![tau](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071510149.png)
+![tau](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071510149.png)
 
-![pten](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071510584.png)
+![pten](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071510584.png)
 
-![1tce](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071510400.png)
+![1tce](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071510400.png)
 
 
 
@@ -49,11 +49,11 @@ alphafold vs standard structure
 
 蓝色部分是晶体结构
 
-![4DFG](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071509880.png)
+![4DFG](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071509880.png)
 
 
 
-![3NDX](https://gitee.com/DF-Master/yidapicbed/raw/master/202112071509008.png)
+![3NDX](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071509008.png)
 
 
 
