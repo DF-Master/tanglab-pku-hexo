@@ -1,0 +1,16 @@
+server {
+           listen       80;
+              server_name  tanglab.pku.edu.cn;
+                      root /smb/openapps/tanglab-pku-hexo/public;
+
+
+                 #charset koi8-r;
+                 #access_log  /var/log/nginx/log/host.access.log  main;
+
+                 location / {
+                                proxy_pass  http://tanglab.pku.edu.cn:4000; # 转发规则
+                proxy_set_header Host $proxy_host; # 修改转发请求头，让端口的应用可以受到真实的请求                proxy_set_header X-Real-IP $remote_addr;
+                proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+                                       index  index.html index.htm;
+                                    }
+}
