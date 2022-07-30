@@ -18,12 +18,6 @@ I am Jieyun Jiang. I got my master's degree from The University of Tulsa. Now I 
 
 <!--more-->
 
-## Kai Pei（裴凯）
-
-![裴凯](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202203221716519.jpg)
-
-I am Kai Pei. I graduated from Hua Zhong Agriculture University. I am major in Biochemistry and Molecular Biology. Now I work in Tang Lab as a research assistant.
-
 ## Mengjun Xue（薛孟军）
 
 Email: mxue@pku.edu.cn

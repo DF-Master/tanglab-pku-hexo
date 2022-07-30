@@ -67,6 +67,14 @@ Hello, my name is Xinyuan Lu, and I graduated from PKU CCME with a bachelor's de
 
 ![卢信源](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202203081238892.png)
 
+## Kai Pei（裴凯）
+
+E-mail:2106596201@pku.edu.cn
+
+![裴凯](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202203221716519.jpg)
+
+I am Kai Pei. I graduated from Hua Zhong Agriculture University. I am major in Biochemistry and Molecular Biology. Now I work in Tang Lab as a research assistant.
+
 ## Yida Jiang(江意达)
 
 ![江意达](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210905134916.png)
