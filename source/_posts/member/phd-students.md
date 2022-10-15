@@ -87,3 +87,25 @@ Hi, I'm Yida Jiang, graduated in PKU CCME, and continue my Ph.D. degree in Tang 
 - QQ: 476540183
 - Github: https://github.com/DF-Master
 
+##  Xinghe Zhang(张兴赫)
+
+![张兴赫](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/2022/202208/zhangxinghe.jpg)
+
+E-mail:chemxhzhang@stu.pku.edu.cn
+
+My name’s Zhang Xinghe. Majored in chemistry, I obtained my bachelor’s degree in Wuhan University. In the next five, or at least five years, I wish to make some ferocious activity (zhěng diǎn hěn huó) in the field of biological physics, protein characterization especially.
+
+##  Yuhao Li(李煜昊)
+
+![李煜昊](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/2022/202208/liyuhao.JPG)
+
+I’m Yuhao Li . I obtained my Bachelor’s degree from Peking University at 2022. And now I am continuing my career in PKU CCME and studying from my PhD in Tang lab. It’s a great pleasure to do my research in such a passionate and fun team.
+
+##  Jin Li(李金)
+
+![李金](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/2022/202208/lijin.jpg)
+
+E-mail: chemlij@stu.pku.edu.cn
+
+Hello! My name is Li Jin, graduated from Sichuan University. Now I’m studying for a PhD at Peking University. I feel privileged to be a member of Tanglab. My research interest focuses on the structure and dynamics of proteins, providing insight into potential drug discovery.
+
