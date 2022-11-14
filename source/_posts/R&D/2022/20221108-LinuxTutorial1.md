@@ -142,7 +142,7 @@ nohup g16 /smb/jiangyd/g16_mission_file/SDA-close-core-opt-TDPBE0.gjk &
 ```
 
 * 这个还有扩展格式, 比如nohup ~/user/test.sh>output.log 2>&1 &，此处不讲
-* 应当注意的是当使用nohup
+* 应当注意的是使用nohup将任务挂载到后台后，**一定不要直接关闭远程连接软件**（Terminal，MobaXTerm，Xshell，etc）**！** 正确的做法是**使用$exit命令关闭用户的远程连接**后再关闭软件。
 
 ### 后台守护进程systemd
 
