@@ -21,6 +21,8 @@ categories:
 
 ---
 
+<!--more-->
+
 # 基础命令行
 
 > 基础内容： 重定向，echo；扩展内容：[modern-unix](https://github.com/ibraheemdev/modern-unix)
