@@ -5,6 +5,8 @@ categories:
 - rd
 tags:
 - rd
+- markdown
+- tutorial
 ---
 
 

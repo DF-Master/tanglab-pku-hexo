@@ -1,10 +1,12 @@
 ---
-title: 搭建GitHub主页的常见问题
+title: F&Q:搭建GitHub主页的常见问题
 tags:
   - github
   - hexo
   - nodejs
   - rd
+  - markdown
+  - tutorial
 categories:
   - web
   - rd

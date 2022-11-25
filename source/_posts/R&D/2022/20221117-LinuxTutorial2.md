@@ -5,6 +5,8 @@ tags:
 - rd
 categories:
 - rd
+- tutorial
+- linux
 ---
 
 

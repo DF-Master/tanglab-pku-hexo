@@ -1,11 +1,12 @@
 ---
-title: "基于NMRPipe的RDC数据处理教程"
+title: Tutorial:基于NMRPipe的RDC数据处理教程
 description: "基于NMRPipe的RDC数据处理教程"
 
 date: 2022-11-02
 lastmod: 2022-11-02
 tags:
 - rd
+- tutorial
 categories: 
 - rd
 ---

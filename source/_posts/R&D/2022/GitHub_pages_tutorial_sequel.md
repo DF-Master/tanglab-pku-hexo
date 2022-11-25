@@ -1,10 +1,12 @@
 ---
-title: 基于Hexo框架的GitHub个人主页搭建教程（后篇）
+title: Tutorial:基于Hexo框架的GitHub个人主页搭建教程（后篇）
 tags:
   - github
   - hexo
   - nodejs
   - rd
+  - markdown
+  - tutorial
 categories:
   - web
   - rd
