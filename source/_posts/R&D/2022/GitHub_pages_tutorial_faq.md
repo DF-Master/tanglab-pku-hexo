@@ -1,16 +1,19 @@
 ---
 title: 搭建GitHub主页的常见问题
 tags:
-  - GitHub
-  - Hexo
-  - Node.js
-  - Material主题
+  - github
+  - hexo
+  - nodejs
+  - rd
 categories:
-  - 网络技术
+  - web
+  - rd
 date: 2022-11-24 22:00:00
 ---
 
 笔者在亲手搭建GitHub主页时，时常遇到一些奇怪的故障，这些故障或是由插件或网页主题的代码错误引起，或是由于不可言说的网络问题所致，现将目前为止遇到的较为棘手的故障，以及对应的解决方案，一并汇总在这篇文章中，供以后采用Hexo搭建博客时参考。
+
+<!--more-->
 
 ### GitHub部分
 

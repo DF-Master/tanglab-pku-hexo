@@ -1,16 +1,19 @@
 ---
 title: 基于Hexo框架的GitHub个人主页搭建教程（后篇）
 tags:
-  - GitHub
-  - Hexo
-  - Node.js
-  - Material主题
+  - github
+  - hexo
+  - nodejs
+  - rd
 categories:
-  - 网络技术
+  - web
+  - rd
 date: 2022-11-24 22:00:00
 ---
 
 （限于篇幅，笔者将搭建教程拆分为两篇。嗯，还记得之前做了什么工作？[回去看看吧](http://tanglab.pku.edu.cn/2022/11/24/R&D/2022/GitHub_pages_tutorial/)）
+
+<!--more-->
 
 ### Part IV. 做一次大装修，让个人主页更美观
 
