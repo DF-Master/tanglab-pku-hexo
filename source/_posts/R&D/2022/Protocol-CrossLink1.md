@@ -41,7 +41,7 @@ categories:
 **选择交联剂浓度需要预先进行交联实验，也就是3中的①-③步，完成后可将反应后的样品一部分进行SDS-PAGE，另一部分可将比例适宜的样品进行3中后续的处理步骤，制备到可以送样的程度**。
 
 ## 3 交联实验步骤
-### 1-6为制备蛋白固样的操作流程，制备至此即可送样。而1-3完成后，可以选择进行SDS-PAGE来看蛋白质交联剂比例是否合适，或直接给平台送PAGE胶样品进行鉴定。**但PAGE胶样品的效果不如蛋白固样**
+1-6为制备蛋白固样的操作流程，制备至此即可送样。而1-3完成后，可以选择进行SDS-PAGE来看蛋白质交联剂比例是否合适，或直接给平台送PAGE胶样品进行鉴定。**但PAGE胶样品的效果不如蛋白固样**
 
 以BS<sup>3</sup>和DSS为例
 1. 使用DMSO溶解适量交联剂至适当浓度使用适宜的buffer将蛋白稀释或浓缩至适当浓度 
@@ -73,17 +73,17 @@ categories:
 
 #### pLink2下载地址与安装要求
 
-1.下载地址 
-- Site1: <http://pfind.ict.ac.cn/software/pLink/index.html> 
-- Site2: <https:/lgithub.com/pFindStudio/pLink2> 
+- 下载地址 
+  - Site1: <http://pfind.ict.ac.cn/software/pLink/index.html> 
+  - Site2: <https:/lgithub.com/pFindStudio/pLink2> 
 
-2．默认路径安装 
-- C:pFindStudiolpLinkl2.3.9
-- 文件夹需要有写入权限
-- 勿安装到C:\Program Files、C:\Program Files (x86)
-- 安装路径不能有中文、空格等特殊字符 
+- 默认路径安装 
+  - C:pFindStudiolpLinkl2.3.9
+  - 文件夹需要有写入权限
+  - 勿安装到C:\Program Files、C:\Program Files (x86)
+  - 安装路径不能有中文、空格等特殊字符 
 
-3. 打开pLink2填写申请表单后激活使用即可
+- 打开pLink2填写申请表单后激活使用即可
 
 ### 使用pLink2进行搜库分析数据
 #### 主要使用默认参数即可
