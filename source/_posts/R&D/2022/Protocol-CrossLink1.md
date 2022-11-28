@@ -65,7 +65,7 @@ categories:
 
 ## 5 pLink2的使用
 ### pLink2的下载与安装
-#### pLink2是一款由中科院计算所贺思敏课题组开发的交联肽搜库软件，安装pLink2需要如下依赖软件
+pLink2是一款由中科院计算所贺思敏课题组开发的交联肽搜库软件，安装pLink2需要如下依赖软件
 - Windows 7/8/10，64位
 - .NET Framework 4.5 <https://www.microsoft.com/en-US/download/details.aspx?id=30653>
 - Java 8，64位  <https://www.java.com/zh_CN/>
@@ -86,7 +86,7 @@ categories:
 - 打开pLink2填写申请表单后激活使用即可
 
 ### 使用pLink2进行搜库分析数据
-#### 主要使用默认参数即可
+主要使用默认参数即可
 ![](https://github.com/DF-Master/tanglabpicbed/blob/main/2022/202211/4.png?raw=true)
 ![](https://github.com/DF-Master/tanglabpicbed/blob/main/2022/202211/5.png?raw=true)
 
