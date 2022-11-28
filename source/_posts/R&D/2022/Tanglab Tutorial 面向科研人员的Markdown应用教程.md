@@ -121,3 +121,5 @@ Text attributes _italic_, **bold**, `monospace`.
 最近在化院和老师同学交流的时候，会发现很多我觉得是“雕虫小技”“常识”的东西，大家却觉得“身边并不见有什么人会”。学校的象牙塔可能让大家忽略了世界的发展和变化，世界变得如此之快，我们也要跟上才行。
 
 希望能给大家一个接触的契机，我已经倾囊相授了（悲），都不是很难的东西。
+
+最后附上示例文件:[化学交联质谱实验方案](https://github.com/DF-Master/tanglab-pku-hexo/blob/master/source/_posts/R%26D/2022/Protocol-CrossLink1.md)
