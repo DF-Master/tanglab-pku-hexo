@@ -8,6 +8,9 @@ tags:
 
 
 # Publications
+
+77 Xuhui Yan, Kai Pei, Zeyuan Guan, Feiqing Liu, Junjun Yan, Xiaohuan Jin, Qiang Wang, Mengjun Hou, Chun Tang & Ping Yin, "AI-empowered integrative structural charac terization of m<sup>6</sup>A methyltransferase complex" Cell Research (2022) [https://doi.org/10.1038/s41422-022-00741-8](https://www.nature.com/articles/s41422-022-00741-8)
+
 76 Jian-Hua Wang, Yu-Liang Tang, Zhou Gong, Rohit Jain, Fan Xiao, Yu Zhou, Dan Tan, Qiang Li, Niu Huang, Shu-Qun Liu, Keqiong Ye, Chun Tang, Meng-Qiu Dong & Xiaoguang Lei, "Characterization of protein unfolding by fast cross-linking mass spectrometry using di-ortho-phthalaldehyde cross-linkers" Nat Commun 13, 1468 (2022). [https://doi.org/10.1038/s41467-022-28879-4](https://www.nature.com/articles/s41467-022-28879-4#citeas)
 
 75 Yingxue Ma, Haozheng Li, Zhou Gong, Shuai Yang, Ping Wang, and Chun Tang, **2022**,"Nucleobase Clustering Contributes to the Formation and Hollowing of Repeat-Expansion RNA Condensate" J. Am. Chem. Soc. [https://doi.org/10.1021/jacs.1c12085](https://pubs.acs.org/doi/10.1021/jacs.1c12085)
