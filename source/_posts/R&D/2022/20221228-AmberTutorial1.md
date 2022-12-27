@@ -1,6 +1,6 @@
 ---
 title: Tutorial:轻松上手Amber&AmberTools【1】
-date: 2022-12-08
+date: 2022-12-28
 categories:
 - rd
 tags:
