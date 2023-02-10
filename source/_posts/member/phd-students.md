@@ -93,11 +93,11 @@ My name’s Zhang Xinghe. Majored in chemistry, I obtained my bachelor’s degre
 
 I’m Yuhao Li . I obtained my Bachelor’s degree from Peking University at 2022. And now I am continuing my career in PKU CCME and studying from my PhD in Tang lab. It’s a great pleasure to do my research in such a passionate and fun team.
 
-##  Jin Li(李金)
+<!-- ##  Jin Li(李金)
 
 ![李金](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/2022/202208/lijin.jpg)
 
 E-mail: chemlij@stu.pku.edu.cn
 
-Hello! My name is Li Jin, graduated from Sichuan University. Now I’m studying for a PhD at Peking University. I feel privileged to be a member of Tanglab. My research interest focuses on the structure and dynamics of proteins, providing insight into potential drug discovery.
+Hello! My name is Li Jin, graduated from Sichuan University. Now I’m studying for a PhD at Peking University. I feel privileged to be a member of Tanglab. My research interest focuses on the structure and dynamics of proteins, providing insight into potential drug discovery. -->
 
