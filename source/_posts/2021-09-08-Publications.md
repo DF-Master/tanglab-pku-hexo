@@ -9,6 +9,12 @@ tags:
 
 # Publications
 
+80 Weishuai Di, Kai Xue, Jun Cai, Zhenshu Zhu, Zihan Li, Hui Fu, Hai Lei, Wenbing Hu, Chun Tang, Wei Wang, and Yi Cao, "Single-Molecule Force Spectroscopy Reveals Cation-π Interactions in Aqueous Media Are Highly Affected by Cation Dehydration" Phys. Rev. Lett. 130, 118101 [https://doi.org/10.1103/PhysRevLett.130.118101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.118101)
+
+79 Weitao Fu, Hao Yang, Chenxian Hu, Jianing Liao, Zhou Gong, Minkui Zhang, Shuai Yang, Shangxiang Ye, Yixuan Lei, Rong Sheng, Zhiguo Zhang, Xiaojun Yao, Chun Tang*, Dan Li*, and Tingjun Hou*, "Small-Molecule Inhibition of Androgen Receptor Dimerization as a Strategy against Prostate Cancer" ACS Cent. Sci. [https://doi.org/10.1021/acscentsci.2c01548](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c01548)
+
+78 	Wang Jian-Hua, Gong Zhou, Dong Xu, Liu Shu-Qun, Tang Yu-Liang, Lei Xiaoguang, Tang Chun, Dong Meng-Qiu, "Fast cross-linking by DOPA2 promotes the capturing of a stereospecific protein complex over nonspecific encounter complexes". Biophysics Reports. [https://doi.org/10.52601/bpr.2022.220014](http://www.biophysics-reports.org/en/article/doi/10.52601/bpr.2022.220014) 
+
 77 Xuhui Yan, Kai Pei, Zeyuan Guan, Feiqing Liu, Junjun Yan, Xiaohuan Jin, Qiang Wang, Mengjun Hou, Chun Tang & Ping Yin, "AI-empowered integrative structural charac terization of m<sup>6</sup>A methyltransferase complex" Cell Research (2022) [https://doi.org/10.1038/s41422-022-00741-8](https://www.nature.com/articles/s41422-022-00741-8)
 
 76 Jian-Hua Wang, Yu-Liang Tang, Zhou Gong, Rohit Jain, Fan Xiao, Yu Zhou, Dan Tan, Qiang Li, Niu Huang, Shu-Qun Liu, Keqiong Ye, Chun Tang, Meng-Qiu Dong & Xiaoguang Lei, "Characterization of protein unfolding by fast cross-linking mass spectrometry using di-ortho-phthalaldehyde cross-linkers" Nat Commun 13, 1468 (2022). [https://doi.org/10.1038/s41467-022-28879-4](https://www.nature.com/articles/s41467-022-28879-4#citeas)
