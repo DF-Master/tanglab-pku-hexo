@@ -32,17 +32,6 @@ E-mail: 623858043@stu.pku.edu.cn
 
 I'm Xuzheng Wang. Graduated from Xiamen University, I joined Tanglab in 2020. Now I am studying in College of Chemistry and Molecular Engineering, Peking University. It's a great honor to meet everyone in Tanglab.
 
-
-
-## Chen Jingru (陈镜如)
-
-![陈镜如](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902135142.jpg)
-E-mail: chenjingru@pku.edu.cn
-
-Hi, I’m Chen Jingru, I completed my undergraduate study in physics at Central China Normal University, and now I am studying for a PhD at Peking University. Tanglab is a laboratory full of passion, creativity and love, I’m going to be a hot-wired, heat-seeking person, riding the wave, pushing the envelope in a sea of interdisciplinary subjects. I will make every effort to perform my duty, make my own contribution, and grow with Tanglab family side by side.
-
-
-
 ## Zihan Li(李梓焓)
 
 ![李梓焓](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/markdown/20210902142734.jpg)
@@ -93,11 +82,4 @@ My name’s Zhang Xinghe. Majored in chemistry, I obtained my bachelor’s degre
 
 I’m Yuhao Li . I obtained my Bachelor’s degree from Peking University at 2022. And now I am continuing my career in PKU CCME and studying from my PhD in Tang lab. It’s a great pleasure to do my research in such a passionate and fun team.
 
-<!-- ##  Jin Li(李金)
-
-![李金](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/2022/202208/lijin.jpg)
-
-E-mail: chemlij@stu.pku.edu.cn
-
-Hello! My name is Li Jin, graduated from Sichuan University. Now I’m studying for a PhD at Peking University. I feel privileged to be a member of Tanglab. My research interest focuses on the structure and dynamics of proteins, providing insight into potential drug discovery. -->
 
