@@ -8,6 +8,7 @@ draft: false
 images: []
 tags:
 - memb
+- members
 menu: 
   member:
     parent: "graduate-students"
