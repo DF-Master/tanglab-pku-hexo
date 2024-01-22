@@ -82,4 +82,25 @@ My name’s Zhang Xinghe. Majored in chemistry, I obtained my bachelor’s degre
 
 I’m Yuhao Li . I obtained my Bachelor’s degree from Peking University at 2022. And now I am continuing my career in PKU CCME and studying from my PhD in Tang lab. It’s a great pleasure to do my research in such a passionate and fun team.
 
+## Yuanzheng lei(雷原正)
 
+![雷原正](https://raw.githubusercontent.com/DF-Master/tanglabpicbed/main/2024/leiyz.jpg)
+
+E-mail: 2201111974@stu.pku.edu.cn
+Hi, I’m Lei Yuanzheng. I graduated from school of physics, PKU with a bachelor’s degree. Now I’m studying for my Ph.D. degree in Tang Lab. I’m now working on characterization of protein phase separation.
+
+## Jianxiong fan(范健雄)
+
+![范健雄](https://raw.githubusercontent.com/DF-Master/tanglabpicbed/main/2024/fanjx.jpg)
+
+E-mail: jxfan@stu.pku.edu.cn
+Hi, I’m Fan Jianxiong. Majored in applied chemistry, I graduated from East China University of Science and Technology in 2023. It’s my honor to be a member of Tang Lab.
+
+## Runtao Zhao(赵润涛)
+
+![赵润涛](https://raw.githubusercontent.com/DF-Master/tanglabpicbed/main/2024/zhaort.jpg)
+
+E-Mail: zrt2002@pku.edu.cn
+WeChat: mauphu
+Github: https://github.com/zrt2002
+Hi, I am Zhao Runtao, graduated from Peking University and currently working on my PhD at Tanglab.
