@@ -81,8 +81,8 @@ pLink2是一款由中科院计算所贺思敏课题组开发的交联肽搜库�
 #### pLink2下载地址与安装要求
 
 - 下载地址 
-  - Site1: <http://pfind.ict.ac.cn/software/pLink/index.html> 
-  - Site2: <https:/lgithub.com/pFindStudio/pLink2> 
+  - Site1: <http://pfind.org/software/pLink/index.html> 
+  - Site2: <https://github.com/pFindStudio/pLink2> 
 
 - 默认路径安装 
   - C:pFindStudiolpLinkl2.3.9
