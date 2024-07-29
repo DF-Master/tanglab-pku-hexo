@@ -9,6 +9,8 @@ tags:
 
 # Publications
 
+83 Mateusz Leśniewski, Maciej Pyrka, Cezary Czaplewski, Nguyen Truong Co, Yida Jiang, Zhou Gong, Chun Tang, Adam Liwo,  **(2024)**, "Assessment of Two Restraint Potentials for Coarse-Grained Chemical-Cross-Link-Assisted Modeling of Protein Structures" J. Chem. Inf. Model. 64, 4, 1377–1393, [asdasdas](https://doi.org/10.1021/acs.jcim.3c01890)
+
 82 Sze Yuet Chin, Yunpeng Lu, Weishuai Di, Kai Ye, Zihan Li, Chenlu He, Yi Cao, Chun Tang,  and Kai Xue, **(2023)**, "Regulating polystyrene glass transition temperature by varying the hydration levels of aromatic ring/Li+ interaction" Phys. Chem. Chem. Phys. [https://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D3CP02995F](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D3CP02995F)
 
 81 Xuhui Yan, Feiqing Liu, Junjun Yan, Mengjun Hou, Min Sun, Delin Zhang, Zhou Gong, Xu Dong, Chun Tang, and Ping Yin, **(2023)**, "WTAP–VIRMA counteracts dsDNA binding of the m6A writer METTL3–METTL14 complex and maintains N6-adenosine methylation activity" Cell Discovery 9, [https://www.nature.com/articles/s41421-023-00604-5](https://www.nature.com/articles/s41421-023-00604-5)
