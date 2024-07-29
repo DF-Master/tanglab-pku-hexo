@@ -10,6 +10,7 @@ tags:
 # Publications
 
 
+84 Yida Jiang, Xinghe Zhang, Honggang Nie, Jianxiong Fan, Shuangshuang Di, Hui Fu, Xiu Zhang, Lijuan Wang, Chun Tang, **(2024)**, "Dissecting diazirine photo-reaction mechanism for protein residue-specific cross-linking and distance mapping" J. Nat Commun 15, 6060 , [https://doi.org/10.1038/s41467-024-50315-y](https://doi.org/10.1038/s41467-024-50315-y).
 
 83 Mateusz Leśniewski, Maciej Pyrka, Cezary Czaplewski, Nguyen Truong Co, Yida Jiang, Zhou Gong, Chun Tang, Adam Liwo,  **(2024)**, "Assessment of Two Restraint Potentials for Coarse-Grained Chemical-Cross-Link-Assisted Modeling of Protein Structures" J. Chem. Inf. Model. 64, 4, 1377–1393, [https://doi.org/10.1021/acs.jcim.3c01890](https://doi.org/10.1021/acs.jcim.3c01890).
 
