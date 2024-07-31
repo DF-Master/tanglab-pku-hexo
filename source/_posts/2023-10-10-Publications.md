@@ -10,17 +10,19 @@ tags:
 # Publications
 
 
-84 Yida Jiang, Xinghe Zhang, Honggang Nie, Jianxiong Fan, Shuangshuang Di, Hui Fu, Xiu Zhang, Lijuan Wang, Chun Tang, **(2024)**, "Dissecting diazirine photo-reaction mechanism for protein residue-specific cross-linking and distance mapping" J. Nat Commun 15, 6060 , [https://doi.org/10.1038/s41467-024-50315-y](https://doi.org/10.1038/s41467-024-50315-y).
+85 François Giraud, Anthony Potenza, Philippe Durand, Xu Dong, Wenxue Jiang, Chun Tang, Ewen Lescop, **(2024)**, "NMR Paramagnetic effects of lanthanide complexes under high hydrostatic pressure to probe the structure of proteins and contrast agents" J.Journées Scientifiques CENTRA, [[https://doi.org/10.1021/acs.jcim.3c01890](https://hal.science/hal-04484744/).
+
+84 Yida Jiang, Xinghe Zhang, Honggang Nie, Jianxiong Fan, Shuangshuang Di, Hui Fu, Xiu Zhang, Lijuan Wang, Chun Tang, **(2024)**, "Dissecting diazirine photo-reaction mechanism for protein residue-specific cross-linking and distance mapping" J. Nat Commun 15(1), 6060 , [https://doi.org/10.1038/s41467-024-50315-y](https://doi.org/10.1038/s41467-024-50315-y).
 
 83 Mateusz Leśniewski, Maciej Pyrka, Cezary Czaplewski, Nguyen Truong Co, Yida Jiang, Zhou Gong, Chun Tang, Adam Liwo,  **(2024)**, "Assessment of Two Restraint Potentials for Coarse-Grained Chemical-Cross-Link-Assisted Modeling of Protein Structures" J. Chem. Inf. Model. 64, 4, 1377–1393, [https://doi.org/10.1021/acs.jcim.3c01890](https://doi.org/10.1021/acs.jcim.3c01890).
 
-82 Sze Yuet Chin, Yunpeng Lu, Weishuai Di, Kai Ye, Zihan Li, Chenlu He, Yi Cao, Chun Tang,  and Kai Xue, **(2023)**, "Regulating polystyrene glass transition temperature by varying the hydration levels of aromatic ring/Li+ interaction" Phys. Chem. Chem. Phys. [https://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D3CP02995F](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D3CP02995F)
+82 Sze Yuet Chin, Yunpeng Lu, Weishuai Di, Kai Ye, Zihan Li, Chenlu He, Yi Cao, Chun Tang,  and Kai Xue, **(2023)**, "Regulating polystyrene glass transition temperature by varying the hydration levels of aromatic ring/Li+ interaction" Phys. Chem. Chem. Phys, [https://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D3CP02995F](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D3CP02995F)
 
 81 Xuhui Yan, Feiqing Liu, Junjun Yan, Mengjun Hou, Min Sun, Delin Zhang, Zhou Gong, Xu Dong, Chun Tang, and Ping Yin, **(2023)**, "WTAP–VIRMA counteracts dsDNA binding of the m6A writer METTL3–METTL14 complex and maintains N6-adenosine methylation activity" Cell Discovery 9, [https://www.nature.com/articles/s41421-023-00604-5](https://www.nature.com/articles/s41421-023-00604-5)
 
-80 Weishuai Di, Kai Xue, Jun Cai, Zhenshu Zhu, Zihan Li, Hui Fu, Hai Lei, Wenbing Hu, Chun Tang, Wei Wang, and Yi Cao, **(2023)**, "Single-Molecule Force Spectroscopy Reveals Cation-π Interactions in Aqueous Media Are Highly Affected by Cation Dehydration" Phys. Rev. Lett. 130, 118101 [https://doi.org/10.1103/PhysRevLett.130.118101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.118101)
+80 Weishuai Di, Kai Xue, Jun Cai, Zhenshu Zhu, Zihan Li, Hui Fu, Hai Lei, Wenbing Hu, Chun Tang, Wei Wang, and Yi Cao, **(2023)**, "Single-Molecule Force Spectroscopy Reveals Cation-π Interactions in Aqueous Media Are Highly Affected by Cation Dehydration" Phys. Rev. Lett. 130, 118101, [https://doi.org/10.1103/PhysRevLett.130.118101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.118101)
 
-79 Weitao Fu, Hao Yang, Chenxian Hu, Jianing Liao, Zhou Gong, Minkui Zhang, Shuai Yang, Shangxiang Ye, Yixuan Lei, Rong Sheng, Zhiguo Zhang, Xiaojun Yao, Chun Tang*, Dan Li*, and Tingjun Hou*, **(2023)**, "Small-Molecule Inhibition of Androgen Receptor Dimerization as a Strategy against Prostate Cancer" ACS Cent. Sci. [https://doi.org/10.1021/acscentsci.2c01548](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c01548)
+79 Weitao Fu, Hao Yang, Chenxian Hu, Jianing Liao, Zhou Gong, Minkui Zhang, Shuai Yang, Shangxiang Ye, Yixuan Lei, Rong Sheng, Zhiguo Zhang, Xiaojun Yao, Chun Tang*, Dan Li*, and Tingjun Hou*, **(2023)**, "Small-Molecule Inhibition of Androgen Receptor Dimerization as a Strategy against Prostate Cancer" ACS Cent. Sci, [https://doi.org/10.1021/acscentsci.2c01548](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c01548)
 
 78 	Wang Jian-Hua, Gong Zhou, Dong Xu, Liu Shu-Qun, Tang Yu-Liang, Lei Xiaoguang, Tang Chun, Dong Meng-Qiu, **(2022)**, "Fast cross-linking by DOPA2 promotes the capturing of a stereospecific protein complex over nonspecific encounter complexes". Biophysics Reports. [https://doi.org/10.52601/bpr.2022.220014](http://www.biophysics-reports.org/en/article/doi/10.52601/bpr.2022.220014) 
 
