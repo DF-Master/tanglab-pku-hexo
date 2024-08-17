@@ -10,6 +10,8 @@ tags:
 # Publications
 
 
+86 Xue-Ni Hou, Bin Song, Chang Zhao, Wen-Ting Chu, Mei-Xia Ruan, Xu Dong, Ling-Shen Meng, Zhou Gong, Yu-Xiang Weng, Jie Zheng*, Jin Wang*, Chun Tang*,  **(2024)**, "Connecting Protein Millisecond Conformational Dynamics to Protein Thermal Stability" Journées Scientifiques CENTRA. [https://doi.org/10.1021/jacsau.4c00649](https://doi.org/10.1021/jacsau.4c00649).
+
 85 François Giraud, Anthony Potenza, Philippe Durand, Xu Dong, Wenxue Jiang, Chun Tang, Ewen Lescop, **(2024)**, "NMR Paramagnetic effects of lanthanide complexes under high hydrostatic pressure to probe the structure of proteins and contrast agents" Journées Scientifiques CENTRA. [https://hal.science/hal-04484744/](https://hal.science/hal-04484744/).
 
 84 Yida Jiang, Xinghe Zhang, Honggang Nie, Jianxiong Fan, Shuangshuang Di, Hui Fu, Xiu Zhang, Lijuan Wang, Chun Tang, **(2024)**, "Dissecting diazirine photo-reaction mechanism for protein residue-specific cross-linking and distance mapping" Nat Commun 15(1), 6060 . [https://doi.org/10.1038/s41467-024-50315-y](https://doi.org/10.1038/s41467-024-50315-y).
