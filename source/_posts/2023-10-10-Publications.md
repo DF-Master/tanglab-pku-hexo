@@ -10,27 +10,34 @@ tags:
 
 # Publications
 
+
+86 Xue-Ni Hou, Bin Song, Chang Zhao, Wen-Ting Chu, Mei-Xia Ruan, Xu Dong, Ling-Shen Meng, Zhou Gong, Yu-Xiang Weng, Jie Zheng*, Jin Wang*, Chun Tang*,  **(2024)**, "Connecting Protein Millisecond Conformational Dynamics to Protein Thermal Stability" JACS Au. [https://doi.org/10.1021/jacsau.4c00649](https://doi.org/10.1021/jacsau.4c00649).
+
+85 François Giraud, Anthony Potenza, Philippe Durand, Xu Dong, Wenxue Jiang, Chun Tang, Ewen Lescop, **(2024)**, "NMR Paramagnetic effects of lanthanide complexes under high hydrostatic pressure to probe the structure of proteins and contrast agents" Journées Scientifiques CENTRA. [https://hal.science/hal-04484744/](https://hal.science/hal-04484744/).
+
+84 Yida Jiang, Xinghe Zhang, Honggang Nie, Jianxiong Fan, Shuangshuang Di, Hui Fu, Xiu Zhang, Lijuan Wang, Chun Tang, **(2024)**, "Dissecting diazirine photo-reaction mechanism for protein residue-specific cross-linking and distance mapping" Nat Commun 15(1), 6060 . [https://doi.org/10.1038/s41467-024-50315-y](https://doi.org/10.1038/s41467-024-50315-y).
+
+83 Mateusz Leśniewski, Maciej Pyrka, Cezary Czaplewski, Nguyen Truong Co, Yida Jiang, Zhou Gong, Chun Tang, Adam Liwo,  **(2024)**, "Assessment of Two Restraint Potentials for Coarse-Grained Chemical-Cross-Link-Assisted Modeling of Protein Structures" J. Chem. Inf. Model. 64, 4, 1377–1393. [https://doi.org/10.1021/acs.jcim.3c01890](https://doi.org/10.1021/acs.jcim.3c01890).
+
 82 Sze Yuet Chin, Yunpeng Lu, Weishuai Di, Kai Ye, Zihan Li, Chenlu He, Yi Cao, Chun Tang,  and Kai Xue, **(2023)**, "Regulating polystyrene glass transition temperature by varying the hydration levels of aromatic ring/Li+ interaction" Phys. Chem. Chem. Phys. [https://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D3CP02995F](https://pubs.rsc.org/en/Content/ArticleLanding/2023/CP/D3CP02995F)
 
-81 Xuhui Yan, Feiqing Liu, Junjun Yan, Mengjun Hou, Min Sun, Delin Zhang, Zhou Gong, Xu Dong, Chun Tang, and Ping Yin, **(2023)**, "WTAP–VIRMA counteracts dsDNA binding of the m6A writer METTL3–METTL14 complex and maintains N6-adenosine methylation activity" Cell Discovery 9, [https://www.nature.com/articles/s41421-023-00604-5](https://www.nature.com/articles/s41421-023-00604-5)
+81 Xuhui Yan, Feiqing Liu, Junjun Yan, Mengjun Hou, Min Sun, Delin Zhang, Zhou Gong, Xu Dong, Chun Tang, and Ping Yin, **(2023)**, "WTAP–VIRMA counteracts dsDNA binding of the m6A writer METTL3–METTL14 complex and maintains N6-adenosine methylation activity" Cell Discovery 9. [https://www.nature.com/articles/s41421-023-00604-5](https://www.nature.com/articles/s41421-023-00604-5)
 
-80 Weishuai Di, Kai Xue, Jun Cai, Zhenshu Zhu, Zihan Li, Hui Fu, Hai Lei, Wenbing Hu, Chun Tang, Wei Wang, and Yi Cao, **(2023)**, "Single-Molecule Force Spectroscopy Reveals Cation-π Interactions in Aqueous Media Are Highly Affected by Cation Dehydration" Phys. Rev. Lett. 130, 118101 [https://doi.org/10.1103/PhysRevLett.130.118101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.118101)
+80 Weishuai Di, Kai Xue, Jun Cai, Zhenshu Zhu, Zihan Li, Hui Fu, Hai Lei, Wenbing Hu, Chun Tang, Wei Wang, and Yi Cao, **(2023)**, "Single-Molecule Force Spectroscopy Reveals Cation-π Interactions in Aqueous Media Are Highly Affected by Cation Dehydration" Phys. Rev. Lett. 130, 118101. [https://doi.org/10.1103/PhysRevLett.130.118101](https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.130.118101)
 
 79 Weitao Fu, Hao Yang, Chenxian Hu, Jianing Liao, Zhou Gong, Minkui Zhang, Shuai Yang, Shangxiang Ye, Yixuan Lei, Rong Sheng, Zhiguo Zhang, Xiaojun Yao, Chun Tang*, Dan Li*, and Tingjun Hou*, **(2023)**, "Small-Molecule Inhibition of Androgen Receptor Dimerization as a Strategy against Prostate Cancer" ACS Cent. Sci. [https://doi.org/10.1021/acscentsci.2c01548](https://pubs.acs.org/doi/full/10.1021/acscentsci.2c01548)
 
 78 	Wang Jian-Hua, Gong Zhou, Dong Xu, Liu Shu-Qun, Tang Yu-Liang, Lei Xiaoguang, Tang Chun, Dong Meng-Qiu, **(2022)**, "Fast cross-linking by DOPA2 promotes the capturing of a stereospecific protein complex over nonspecific encounter complexes". Biophysics Reports. [https://doi.org/10.52601/bpr.2022.220014](http://www.biophysics-reports.org/en/article/doi/10.52601/bpr.2022.220014) 
 
-77 Xuhui Yan, Kai Pei, Zeyuan Guan, Feiqing Liu, Junjun Yan, Xiaohuan Jin, Qiang Wang, Mengjun Hou, Chun Tang & Ping Yin, **(2022)** "AI-empowered integrative structural charac terization of m<sup>6</sup>A methyltransferase complex" Cell Research  [https://doi.org/10.1038/s41422-022-00741-8](https://www.nature.com/articles/s41422-022-00741-8)
+77 Xuhui Yan, Kai Pei, Zeyuan Guan, Feiqing Liu, Junjun Yan, Xiaohuan Jin, Qiang Wang, Mengjun Hou, Chun Tang & Ping Yin, **(2022)** "AI-empowered integrative structural charac terization of m<sup>6</sup>A methyltransferase complex" Cell Research .[https://doi.org/10.1038/s41422-022-00741-8](https://www.nature.com/articles/s41422-022-00741-8)
 
 76 Jian-Hua Wang, Yu-Liang Tang, Zhou Gong, Rohit Jain, Fan Xiao, Yu Zhou, Dan Tan, Qiang Li, Niu Huang, Shu-Qun Liu, Keqiong Ye, Chun Tang, Meng-Qiu Dong, and Xiaoguang Lei, **(2022)**,"Characterization of protein unfolding by fast cross-linking mass spectrometry using di-ortho-phthalaldehyde cross-linkers" Nat Commun 13, 1468. [https://doi.org/10.1038/s41467-022-28879-4](https://www.nature.com/articles/s41467-022-28879-4#citeas)
 
 75 Yingxue Ma, Haozheng Li, Zhou Gong, Shuai Yang, Ping Wang, and Chun Tang, **(2022)**,"Nucleobase Clustering Contributes to the Formation and Hollowing of Repeat-Expansion RNA Condensate" J. Am. Chem. Soc. [https://doi.org/10.1021/jacs.1c12085](https://pubs.acs.org/doi/10.1021/jacs.1c12085)
 
-74 Xu Dong, Ling-Yun Qin, Zhou Gong, Sanbo Qin, Huan-Xiang Zhou, and Chun Tang, **(2022)**."Preferential Interactions of a Crowder Protein with the Specific Binding Site of a Native Protein Complex" J. Phys. Chem. Lett.: 792–800[https://doi.org/10.1021/acs.jpclett.1c03794](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c03794)
-
+74 Xu Dong, Ling-Yun Qin, Zhou Gong, Sanbo Qin, Huan-Xiang Zhou, and Chun Tang, **(2022)**."Preferential Interactions of a Crowder Protein with the Specific Binding Site of a Native Protein Complex" J. Phys. Chem. Lett.: 792–800.[https://doi.org/10.1021/acs.jpclett.1c03794](https://pubs.acs.org/doi/full/10.1021/acs.jpclett.1c03794)
 
 73 Czaplewski, C., et al. **(2021)**. "Recent Developments in Data-Assisted Modeling of Flexible Proteins." Frontiers in Molecular Biosciences 8(1306).[https://doi.org/10.3389/fmolb.2021.765562](https://www.frontiersin.org/articles/10.3389/fmolb.2021.765562/full)
-
 
 72 Fu, W., et al. **(2021)**. "Discovery of a Novel Androgen Receptor Antagonist Manifesting Evidence to Disrupt the Dimerization of the Ligand-Binding Domain via Attenuating the Hydrogen-Bonding Network Between the Two Monomers." Journal of Medicinal Chemistry 64(23): 17221-17238.[https://doi.org/10.1021/acs.jmedchem.1c01287](https://pubs.acs.org/doi/abs/10.1021/acs.jmedchem.1c01287)
 
