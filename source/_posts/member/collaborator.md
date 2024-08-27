@@ -1,7 +1,7 @@
 ---
 title: "Collaborator"
 description: "Collaborator"
-date: 2024-01-01
+date: 2024-08-01
 draft: false
 images: []
 tags:
