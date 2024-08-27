@@ -19,4 +19,8 @@ Hi, I am Xue-Ni Hou, received my MSc from China Agriculture University in 2016, 
 
  ![侯雪妮](https://raw.githubusercontent.com/DF-Master/yidapicbed/main/202112071934116.jpeg)
 
- 
+## Liyuan Wang
+
+I am Wang Liyuan, a Gemini girl who loves taking photos, citywalk, and playing table tennis. I recived Ph.D. from Yanbian University in the group of Prof.Li Donghao. It's honored to join the Tang Lab and start my postdoctoral research on chemical cross-linking mass spectrometry.
+
+![王李原](https://raw.githubusercontent.com/DF-Master/tanglabpicbed/main/2024/wangly.jpg)
